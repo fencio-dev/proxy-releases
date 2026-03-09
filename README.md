@@ -1,1 +1,3 @@
-IyBmZW5jaW8tcHJveHkgcmVsZWFzZXMKClByZS1idWlsdCBiaW5hcmllcyBmb3IgdGhlIEZlbmNpbyBwcm94eS4gU2VlIFtmZW5jaW8tZGV2L3Byb3h5XShodHRwczovL2dpdGh1Yi5jb20vZmVuY2lvLWRldi9wcm94eSkgZm9yIHNvdXJjZS4K
+Public repository for proxy releases to be integrated with Prism's stack for network-layer enforcement.
+
+Sorry, proxy ain't open source. :(
